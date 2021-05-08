@@ -43,7 +43,7 @@ module.exports = {
       },
       {
         "text": "GitHub",
-        "link": "https://github.com/recoluan",
+        "link": "https://github.com/Adamzealmony",
         "icon": "reco-github"
       }
     ],
