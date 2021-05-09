@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Adam's Blog
-tagline: 😻😻😻
+tagline: 😼💖😻
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
