@@ -1,4 +1,4 @@
-Demo Address: adamzealmony.github.io
+# Demo Address: [我的博客](https://adamzealmony.github.io)
 ---
 home: true
 heroText: Adam's Blog
