@@ -1,3 +1,4 @@
+Demo Address: adamzealmony.github.io
 ---
 home: true
 heroText: Adam's Blog
