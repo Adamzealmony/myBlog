@@ -20,6 +20,7 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    "mode": "dark",
     "nav": [
       {
         "text": "Home",

@@ -14,6 +14,7 @@ tagline: 😼💖😻
 bgImageStyle: {
   height: '450px'
 }
+bgImage: '/Hong_Kong_at_night.jpg'
 isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
